@@ -1,5 +1,6 @@
-# CommonUtil
-Common utils for you to use easily
+# CommonUtils
+Common utils for you to use easily.
+Just add to your project what you need.
 
 ```
 Usage:　
