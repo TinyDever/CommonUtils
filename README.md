@@ -21,11 +21,12 @@ Output:
  4 5 6 7 8 9 0 1 2 3
 ```
 
+
 ```
 Usage:　
 Java/AppCache/AppCache.java
 ```
 ```
-putXXX/getXXX to save/get object or data.
+//putXXX/getXXX to save/get object or data.
 Object obeject = AppCache.get(context).getSerializable("cacheName");
 ```
